@@ -1,2 +1,6 @@
 streamlit
 g4f
+pyttsx3
+speechRecognition
+tempfile
+os
